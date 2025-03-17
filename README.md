@@ -10,6 +10,7 @@ This is an open source project intended to recover, revive, renew the initial da
 - [PDF of Statewide Telework Dashboard from DGS](https://www.documents.dgs.ca.gov/Telework/PDF%20Output/Statewide%20Telework%20Dashboard%20-%20DTSC.pdf)
 
 ## Soure Data
+- [Statewide Hybrid Workforce]("https://catalog.data.gov/dataset/statewide-hybrid-workforce")
 - [DGS Telework Data](https://data.ca.gov/dataset/dgs-telework-data)
 
 ## Requirements
